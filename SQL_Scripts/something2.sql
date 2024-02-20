@@ -1,2 +1,5 @@
 SELECT *
-FROM tblBlah;
+FROM tblBlah b;
+
+SELECT *
+FROM tblBlah2;
